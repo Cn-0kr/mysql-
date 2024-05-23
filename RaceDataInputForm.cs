@@ -1,4 +1,6 @@
-﻿using System;
+/*Formsize: 1487,959左右*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
